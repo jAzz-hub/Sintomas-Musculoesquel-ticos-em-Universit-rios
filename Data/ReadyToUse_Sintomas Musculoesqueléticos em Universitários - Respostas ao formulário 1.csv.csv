@@ -1,0 +1,198 @@
+IDADE,CURSO,SEXO,ESTADO CIVIL,RAÇA/COR DA PELE,RENDA FAMILIAR,Quanto você se preocupou com a sua dor ou com o desconforto físico?  ,Quanto você se preocupou com a sua saúde?  ,Em que medida você acha que a sua dor (física) te impede de fazer o que precisa?  ,Você tem alguma dificuldade para dormir ou dificuldade com o sono?   ,Em que medida você tem dificuldade para exercer suas atividades diárias?  ,Qual a sua frequência de atividades físicas semanais?  ,Com que frequência você utiliza dispositivos eletrônicos?   ,Você fica sentado estudando em média quantas horas por dia? ,As suas atividades acadêmicas/estágios influenciam nas dores que sente? ,Você se sente muito estressado/ansioso? ,"Nos últimos 6 MESES, você teve problemas (como formigamento, dor ou dormência) em alguma parte do corpo: ","Nos últimos 6 MESES, você foi impedido de realizar suas atividades normais (trabalho, atividades domésticas e de lazer) por causa desses problemas?","Nos últimos 6 MESES, você consultou algum profissional da área da saúde (médico, fisioterapeuta) por causa dessa condição?","Nos últimos 7 DIAS, você teve/tem algum problema/sintoma musculoesquelético?"
+26,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,Nada,Extremamente,3 horas,Muito pouco,Bastante,"Se SIM, em qual região?",Sim,Não,Sim
+43,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Extremamente,Mais ou menos,Nada,Bastante,4 horas,Bastante,Bastante,Sim,Não,Não,Sim
+25,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Mais ou menos,Extremamente,Mais ou menos,Nada,Extremamente,4 horas,Mais ou menos,Extremamente,Sim,Não,Não,Sim
+22,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Muito pouco,Nada,Nada,Bastante,3 horas,Mais ou menos,Bastante,Sim,Não,Não,Não sei 
+18,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Mais ou menos,Nada,5 a 6 dias,Extremamente,4 horas,Nada,Bastante,Sim,Não,Não,Não
+24,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Bastante,Bastante,Bastante,Nada,Extremamente,3 horas,Muito pouco,Muito pouco,Sim,Sim,Sim,Não
+22,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Nada,Muito pouco,1 a 2 dias,Extremamente,1 a 2 horas,Muito pouco,Mais ou menos,Sim,Sim,Não,Não
+37,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Nada,Nada,Nada,Nada,3 horas,Nada,Bastante,Sim,Não,Sim,Sim
+21,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Bastante,Mais ou menos,Muito pouco,1 a 2 dias,Bastante,3 horas,Mais ou menos,Mais ou menos,Não,Não,Sim,Sim
+18,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Muito pouco,Mais ou menos,Nada,Bastante,1 a 2 horas,Muito pouco,Bastante,Sim,Sim,Sim,Não
+22,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Mais ou menos,Muito pouco,Muito pouco,1 a 2 dias,Extremamente,6 horas ou mais,Mais ou menos,Mais ou menos,Sim,Sim,Sim,Não
+50,Psicologia,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Mais ou menos,Mais ou menos,5 a 6 dias,Bastante,1 a 2 horas,Mais ou menos,Extremamente,Sim,Não,Sim,Sim
+45,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Bastante,Muito pouco,1 a 2 dias,Bastante,1 a 2 horas,Mais ou menos,Mais ou menos,Sim,Não,Não,Não
+25,Psicologia,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Nada,Muito pouco,Muito pouco,Todos os dias,Bastante,1 a 2 horas,Nada,Muito pouco,Não,Não,Não,Não
+18,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Muito pouco,Muito pouco,Nada,Nada,Bastante,3 horas,Nada,Bastante,Não,Não,Não,Não
+19,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Nada,Nada,Nada,Bastante,1 a 2 horas,Nada,Mais ou menos,Sim,Não,Não,Sim
+20,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Extremamente,Extremamente,Mais ou menos,Nada,Extremamente,5 horas,Bastante,Extremamente,Sim,Não,Sim,Sim
+19,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Muito pouco,Nada,1 a 2 dias,Bastante,1 a 2 horas,Nada,Mais ou menos,Não,Não,Não,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Muito pouco,Nada,Nada,Bastante,3 horas,Muito pouco,Bastante,Sim,Não,Não,Não
+23,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Extremamente,Bastante,Extremamente,Nada,Extremamente,4 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Não
+23,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Nada,Muito pouco,Nada,Bastante,6 horas ou mais,Muito pouco,Bastante,Sim,Sim,Não,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Bastante,Nada,Nada,5 a 6 dias,Extremamente,3 horas,Nada,Mais ou menos,Não,Sim,Não,Não
+18,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Muito pouco,Nada,Nada,Bastante,3 horas,Nada,Bastante,Sim,Não,Não,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Nada,Mais ou menos,1 a 2 dias,Extremamente,5 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Não
+19,Psicologia,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,3 a 4 dias,Bastante,3 horas,Muito pouco,Mais ou menos,às vezes ,Não,Não,Não
+51,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,5-10 SALÁRIOS-MÍNIMOS,Extremamente,Bastante,Bastante,Bastante,Bastante,1 a 2 dias,Bastante,3 horas,Mais ou menos,Mais ou menos,Sim,Sim,Sim,Sim
+20,Psicologia,MASCULINO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Nada,Nada,5 a 6 dias,Bastante,4 horas,Nada,Muito pouco,Sim,Não,Não,Sim
+20,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Nada,Nada,Mais ou menos,Nada,Bastante,6 horas ou mais,Bastante,Bastante,Sim,Não,Não,Não
+18,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Bastante,Mais ou menos,Muito pouco,Nada,Bastante,3 horas,Muito pouco,Bastante,Não,Não,Não,Não
+29,Psicologia,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Muito pouco,Muito pouco,Nada,Extremamente,3 horas,Nada,Bastante,Sim,Não,Não,Sim
+18,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Nada,Mais ou menos,Nada,3 a 4 dias,Bastante,1 a 2 horas,Nada,Muito pouco,Não,Sim,Não,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Nada,Muito pouco,Muito pouco,Mais ou menos,Nada,1 a 2 dias,Extremamente,6 horas ou mais,Nada,Bastante,Não,Não,Não,Não
+22,Psicologia,MASCULINO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Extremamente,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,Nada,Extremamente,1 a 2 horas,Muito pouco,Extremamente,Sim,Sim,Sim,Sim
+36,Psicologia,FEMININO,DIVORCIADO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Muito pouco,Bastante,Muito pouco,Mais ou menos,1 a 2 dias,Bastante,6 horas ou mais,Muito pouco,Bastante,Sim,Sim,Sim,Sim
+20,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Bastante,Muito pouco,Mais ou menos,3 a 4 dias,Mais ou menos,3 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Não
+20,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Muito pouco,Mais ou menos,Nada,3 a 4 dias,Bastante,1 a 2 horas,Muito pouco,Extremamente,Sim,Não,Não,Não
+19,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Muito pouco,Mais ou menos,1 a 2 dias,Bastante,3 horas,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Extremamente,Muito pouco,3 a 4 dias,Extremamente,3 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Sim
+19,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Bastante,Mais ou menos,1 a 2 dias,Bastante,1 a 2 horas,Muito pouco,Bastante,Sim,Não,Não,Sim
+21,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Bastante,Nada,Muito pouco,3 a 4 dias,Bastante,1 a 2 horas,Muito pouco,Muito pouco,Não,Não,Não,Não
+32,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,Nada,Nada,3 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Sim
+19,Psicologia,FEMININO,SOLTEIRO (A),PARDA,MENOR QUE 1 SALÁRIO-MÍNIMO,Bastante,Mais ou menos,Muito pouco,Bastante,Extremamente,Nada,Extremamente,3 horas,Mais ou menos,Extremamente,Sim,Não,Não,Não
+19,Psicologia,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Nada,5 a 6 dias,Bastante,3 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+22,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Bastante,Mais ou menos,1 a 2 dias,Bastante,6 horas ou mais,Muito pouco,Extremamente,Sim,Não,Não,Não
+36,Psicologia,FEMININO,SOLTEIRO (A),PRETA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Muito pouco,Nada,5 a 6 dias,Bastante,5 horas,Nada,Muito pouco,Sim,Não,Não,Não
+24,Psicologia,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Extremamente,Mais ou menos,Extremamente,Bastante,Nada,Extremamente,6 horas ou mais,Bastante,Extremamente,Sim,Sim,Sim,Sim
+22,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Extremamente,6 horas ou mais,Mais ou menos,Mais ou menos,Sim,Não,Não,Sim
+20,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,Nada,Bastante,3 horas,Muito pouco,Mais ou menos,Sim,Não,Não,Sim
+24,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,3 a 4 dias,Bastante,1 a 2 horas,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+20,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,1 a 2 dias,Extremamente,1 a 2 horas,Muito pouco,Mais ou menos,Não,Não,Sim,Sim
+19,Psicologia,FEMININO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Bastante,Muito pouco,Mais ou menos,Nada,Extremamente,4 horas,Nada,Extremamente,Não,Sim,Sim,Não
+19,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Nada,Nada,Muito pouco,Nada,Bastante,4 horas,Mais ou menos,Bastante,Sim,Não,Não,Não
+47,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Muito pouco,Bastante,Bastante,Nada,Mais ou menos,3 horas,Mais ou menos,Extremamente,Sim,Sim,Sim,Não
+23,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Muito pouco,Mais ou menos,3 a 4 dias,Bastante,1 a 2 horas,Muito pouco,Bastante,Sim,Sim,Sim,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Mais ou menos,Nada,Nada,Extremamente,3 horas,Nada,Mais ou menos,Sim,Sim,Não,Sim
+29,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Bastante,Mais ou menos,Mais ou menos,Nada,Extremamente,6 horas ou mais,Mais ou menos,Bastante,Sim,Sim,Sim,Não
+45,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Extremamente,Mais ou menos,Mais ou menos,5 a 6 dias,Bastante,5 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Sim
+51,Psicologia,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Bastante,Muito pouco,1 a 2 dias,Bastante,3 horas,Mais ou menos,Muito pouco,Sim,Não,Não,Sim
+20,Psicologia,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Mais ou menos,Nada,1 a 2 dias,Bastante,4 horas,Nada,Muito pouco,Sim,Não,Não,Não
+22,Psicologia,MASCULINO,SOLTEIRO (A),BRANCA,MENOR QUE 1 SALÁRIO-MÍNIMO,Muito pouco,Bastante,Muito pouco,Muito pouco,Mais ou menos,3 a 4 dias,Extremamente,1 a 2 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+21,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Nada,Nada,Nada,Extremamente,4 horas,Mais ou menos,Mais ou menos,Não,Não,Não,Não
+29,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Extremamente,Bastante,3 a 4 dias,Extremamente,6 horas ou mais,Mais ou menos,Extremamente,Sim,Sim,Não,Não
+21,Psicologia,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Bastante,Bastante,Muito pouco,3 a 4 dias,Extremamente,6 horas ou mais,Muito pouco,Extremamente,Sim,Sim,Sim,Sim
+22,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,5 a 6 dias,Extremamente,5 horas,Mais ou menos,Mais ou menos,Sim,Sim,Sim,Não
+26,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Bastante,Muito pouco,Muito pouco,Nada,Bastante,6 horas ou mais,Mais ou menos,Extremamente,Não,Não,Não,Não
+23,Psicologia,MASCULINO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Nada,Muito pouco,Nada,Nada,Nada,Extremamente,1 a 2 horas,Nada,Extremamente,Sim,Sim,Não,Não
+23,Psicologia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,1 a 2 dias,Bastante,5 horas,Bastante,Bastante,Sim,Não,Não,Sim
+46,Psicologia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Nada,Nada,Nada,Bastante,4 horas,Nada,Muito pouco,Não,Não,Não,Não
+46,Psicologia,FEMININO,DIVORCIADO (A),BRANCA,MENOR QUE 1 SALÁRIO-MÍNIMO,Mais ou menos,Muito pouco,Nada,Muito pouco,Nada,Nada,Bastante,5 horas,Extremamente,Extremamente,Sim,Não,Não,Não
+21,Medicina,MASCULINO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Bastante,6 horas ou mais,Mais ou menos,Mais ou menos,Não,Não,Não,Sim
+21,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Nada,Muito pouco,5 a 6 dias,Extremamente,1 a 2 horas,Nada,Bastante,Sim,Sim,Sim,Não
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Nada,Nada,Nada,3 a 4 dias,Bastante,1 a 2 horas,Nada,Muito pouco,Não,Não,Não,Sim
+18,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Bastante,Muito pouco,5 a 6 dias,Extremamente,4 horas,Nada,Mais ou menos,Não,Não,Não,Não
+18,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Extremamente,Extremamente,Bastante,Nada,Nada,5 a 6 dias,Bastante,1 a 2 horas,Nada,Nada,Não,Não,Não,Não
+18,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Extremamente,Extremamente,Muito pouco,Nada,Nada,Nada,Bastante,6 horas ou mais,Extremamente,Mais ou menos,Sim,Não,Sim,Sim
+19,Medicina,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Muito pouco,Extremamente,Mais ou menos,Nada,Extremamente,6 horas ou mais,Nada,Extremamente,Não,Não,Não,Não
+21,Medicina,MASCULINO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Nada,Nada,Nada,3 a 4 dias,Bastante,5 horas,Nada,Nada,Não,Não,Não,Não
+3-,Medicina,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Extremamente,Bastante,Bastante,Mais ou menos,Mais ou menos,3 a 4 dias,Bastante,5 horas,Bastante,Extremamente,Sim,Sim,Não,Sim
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Nada,Muito pouco,5 a 6 dias,Bastante,3 horas,Nada,Mais ou menos,Sim,Sim,Sim,Sim
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,5 a 6 dias,Bastante,4 horas,Mais ou menos,Mais ou menos,Sim,Não,Não,Sim
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,Muito pouco,3 a 4 dias,Bastante,6 horas ou mais,Mais ou menos,Bastante,Sim,Não,Não,Sim
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Mais ou menos,Muito pouco,3 a 4 dias,Extremamente,3 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Não
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Bastante,4 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Muito pouco,Mais ou menos,Muito pouco,Nada,Bastante,6 horas ou mais,Extremamente,Bastante,Não,Não,Não,Sim
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Bastante,4 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Bastante,4 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Muito pouco,Nada,5 a 6 dias,Bastante,6 horas ou mais,Mais ou menos,Mais ou menos,Não,Não,Não,Não
+20,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Muito pouco,Muito pouco,Nada,Bastante,6 horas ou mais,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+20,Medicina,FEMININO,SOLTEIRO (A),PRETA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Mais ou menos,Muito pouco,5 a 6 dias,Extremamente,3 horas,Mais ou menos,Mais ou menos,Não,Não,Não,Sim
+22,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Muito pouco,Muito pouco,5 a 6 dias,Extremamente,3 horas,Mais ou menos,Mais ou menos,Não,Não,Não,Não
+22,Medicina,FEMININO,SOLTEIRO (A),PRETA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Nada,Muito pouco,Nada,Extremamente,6 horas ou mais,Nada,Bastante,Sim,Não,Não,Não
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Extremamente,Bastante,Mais ou menos,Mais ou menos,Nada,5 a 6 dias,Bastante,4 horas,Nada,Bastante,Não,Não,Não,Não
+25,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Muito pouco,Mais ou menos,Nada,Muito pouco,1 a 2 dias,Bastante,4 horas,Muito pouco,Muito pouco,Sim,Sim,Sim,Não
+23,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Muito pouco,Bastante,Muito pouco,1 a 2 dias,Bastante,5 horas,Muito pouco,Muito pouco,Não,Não,Não,Não
+24,Medicina,MASCULINO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Mais ou menos,Muito pouco,Muito pouco,5 a 6 dias,Extremamente,3 horas,Bastante,Bastante,Sim,Não,Sim,Sim
+18,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Extremamente,Nada,Nada,Nada,5 a 6 dias,Bastante,3 horas,Nada,Nada,Não,Não,Não,Não
+21,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Muito pouco,Muito pouco,Bastante,Muito pouco,3 a 4 dias,Bastante,3 horas,Muito pouco,Mais ou menos,Sim,Não,Não,Sim
+22,Odontologia ,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Muito pouco,Mais ou menos,Muito pouco,3 a 4 dias,Extremamente,4 horas,Mais ou menos,Bastante,Não,Não,Não,Não
+19,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Mais ou menos,Nada,5 a 6 dias,Extremamente,6 horas ou mais,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Nada,Bastante,Muito pouco,5 a 6 dias,Extremamente,1 a 2 horas,Muito pouco,Extremamente,Não,Não,Não,Não
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Nada,Nada,Nada,Todos os dias,Mais ou menos,4 horas,Nada,Muito pouco,Não,Não,Não,Não
+25,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Bastante,6 horas ou mais,Muito pouco,Mais ou menos,Não,Não,Não,Não
+20,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Nada,Bastante,Mais ou menos,5 a 6 dias,Bastante,3 horas,Nada,Bastante,Não,Não,Sim,Não
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,3 a 4 dias,Bastante,6 horas ou mais,Bastante,Bastante,Sim,Não,Não,Sim
+23,Medicina,MASCULINO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Muito pouco,Mais ou menos,Nada,Muito pouco,Nada,Extremamente,4 horas,Nada,Bastante,Sim,Não,Não,Não
+21,Medicina,MASCULINO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Nada,Extremamente,Nada,Nada,Nada,Todos os dias,Extremamente,5 horas,Nada,Nada,Não,Não,Não,Não
+24,Administração ,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Nada,Muito pouco,Nada,Todos os dias,Bastante,1 a 2 horas,Nada,Muito pouco,Sim,Não,Não,Não
+27,Medicina,FEMININO,SOLTEIRO (A),AMARELA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,3 a 4 dias,Mais ou menos,4 horas,Mais ou menos,Bastante,Não,Não,Não,Sim
+21,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Mais ou menos,Muito pouco,Mais ou menos,3 a 4 dias,Extremamente,4 horas,Nada,Muito pouco,Sim,Sim,Sim,Não
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Bastante,Bastante,Mais ou menos,Todos os dias,Extremamente,6 horas ou mais,Bastante,Bastante,Sim,Sim,Sim,Sim
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,3 a 4 dias,Extremamente,6 horas ou mais,Bastante,Bastante,Sim,Sim,Sim,Sim
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Extremamente,Mais ou menos,5 a 6 dias,Extremamente,3 horas,Bastante,Bastante,Não,Não,Não,Sim
+23,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Extremamente,Muito pouco,Nada,Muito pouco,Todos os dias,Extremamente,5 horas,Mais ou menos,Bastante,Não,Não,Não,Sim
+27,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Extremamente,Extremamente,Mais ou menos,Bastante,Mais ou menos,3 a 4 dias,Bastante,6 horas ou mais,Muito pouco,Bastante,Sim,Sim,Não,Sim
+20,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Nada,Muito pouco,Nada,Nada,Extremamente,6 horas ou mais,Muito pouco,Mais ou menos,Não,Não,Não,Não
+26,Fisioterapia ,MASCULINO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Extremamente,Bastante,Bastante,Mais ou menos,Bastante,5 a 6 dias,Extremamente,1 a 2 horas,Nada,Mais ou menos,Sim,Sim,Sim,Sim
+24,Medicina,FEMININO,SOLTEIRO (A),PARDA,MENOR QUE 1 SALÁRIO-MÍNIMO,Extremamente,Bastante,Bastante,Mais ou menos,Bastante,Todos os dias,Extremamente,4 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Sim
+25,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Mais ou menos,Muito pouco,Mais ou menos,Nada,Mais ou menos,4 horas,Muito pouco,Muito pouco,Não,Não,Sim,Não
+27,Medicina,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Nada,Nada,1 a 2 dias,Bastante,6 horas ou mais,Bastante,Bastante,Sim,Não,Não,Sim
+22,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Mais ou menos,Bastante,1 a 2 dias,Extremamente,6 horas ou mais,Muito pouco,Bastante,Sim,Não,Sim,Sim
+22,Medicina,MASCULINO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Muito pouco,Muito pouco,1 a 2 dias,Extremamente,5 horas,Mais ou menos,Mais ou menos,Sim,Não,Sim,Não
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Mais ou menos,Muito pouco,Mais ou menos,3 a 4 dias,Bastante,6 horas ou mais,Nada,Bastante,Não,Sim,Sim,Sim
+22,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Bastante,Extremamente,Bastante,5 a 6 dias,Extremamente,1 a 2 horas,Nada,Mais ou menos,Não,Não,Sim,Não
+27,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Nada,Extremamente,Muito pouco,3 a 4 dias,Extremamente,4 horas,Muito pouco,Extremamente,Sim,Não,Não,Não
+23,Medicina,FEMININO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Muito pouco,Nada,3 a 4 dias,Bastante,6 horas ou mais,Mais ou menos,Mais ou menos,Não,Não,Não,Não
+21,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Muito pouco,Muito pouco,Nada,5 a 6 dias,Extremamente,1 a 2 horas,Nada,Bastante,Não,Não,Não,Não
+23,Medicina,MASCULINO,SOLTEIRO (A),PRETA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,3 a 4 dias,Bastante,4 horas,Mais ou menos,Mais ou menos,Sim,Não,Não,Não
+24,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Extremamente,Mais ou menos,Bastante,Nada,Mais ou menos,3 a 4 dias,Bastante,4 horas,Nada,Mais ou menos,Sim,Sim,Não,Sim
+54,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Nada,Muito pouco,1 a 2 dias,Bastante,6 horas ou mais,Bastante,Muito pouco,Sim,Não,Sim,Sim
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Nada,Nada,Nada,3 a 4 dias,Bastante,4 horas,Muito pouco,Muito pouco,Não,Não,Não,Sim
+23,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,Muito pouco,5 a 6 dias,Bastante,6 horas ou mais,Bastante,Mais ou menos,Sim,Não,Não,Sim
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Extremamente,Nada,Nada,Nada,1 a 2 dias,Extremamente,6 horas ou mais,Mais ou menos,Extremamente,Sim,Não,Sim,Sim
+31,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PRETA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Mais ou menos,Nada,Extremamente,3 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+22,Engenharia da Computação,MASCULINO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Extremamente,Extremamente,Mais ou menos,Mais ou menos,Extremamente,Nada,Extremamente,6 horas ou mais,Mais ou menos,Muito pouco,Sim,Não,Não,Sim
+20,Engenharia da Computação,FEMININO,SOLTEIRO (A),PARDA,MENOR QUE 1 SALÁRIO-MÍNIMO,Extremamente,Extremamente,Extremamente,Extremamente,Bastante,1 a 2 dias,Bastante,1 a 2 horas,Bastante,Extremamente,Sim,Sim,Sim,Sim
+22,Engenharia da Computação,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Nada,Mais ou menos,Muito pouco,3 a 4 dias,Bastante,6 horas ou mais,Nada,Bastante,Não,Não,Não,Não
+24,Medicina,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Muito pouco,Mais ou menos,3 a 4 dias,Extremamente,3 horas,Mais ou menos,Bastante,Sim,Não,Não,Sim
+23,Medicina,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Muito pouco,Nada,Mais ou menos,Nada,3 a 4 dias,Extremamente,4 horas,Mais ou menos,Bastante,Sim,Não,Não,Sim
+24,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Muito pouco,Nada,Muito pouco,3 a 4 dias,Extremamente,3 horas,Nada,Muito pouco,Não,Não,Não,Não
+23,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Bastante,Muito pouco,3 a 4 dias,Bastante,4 horas,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+31,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PRETA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Muito pouco,Muito pouco,Muito pouco,1 a 2 dias,Bastante,3 horas,Muito pouco,Muito pouco,Não,Não,Não,Não
+22,Medicina,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Muito pouco,Mais ou menos,3 a 4 dias,Bastante,4 horas,Mais ou menos,Extremamente,Sim,Não,Não,Sim
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Nada,Muito pouco,Muito pouco,Bastante,3 a 4 dias,Extremamente,6 horas ou mais,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+19,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Muito pouco,Muito pouco,Nada,Nada,Bastante,5 horas,Nada,Mais ou menos,Não,Não,Não,Sim
+21,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Muito pouco,Mais ou menos,Muito pouco,1 a 2 dias,Extremamente,6 horas ou mais,Mais ou menos,Extremamente,Não,Não,Não,Sim
+19,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Nada,Muito pouco,Nada,5 a 6 dias,Extremamente,6 horas ou mais,Nada,Bastante,Sim,Não,Sim,Sim
+35,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Muito pouco,Muito pouco,Muito pouco,Muito pouco,3 a 4 dias,Muito pouco,3 horas,Muito pouco,Muito pouco,Não,Não,Não,Não
+19,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Bastante,Muito pouco,3 a 4 dias,Extremamente,4 horas,Muito pouco,Mais ou menos,Sim,Sim,Sim,Não
+20,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Muito pouco,Nada,Muito pouco,Nada,Extremamente,1 a 2 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+21,Odontologia ,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Muito pouco,Nada,5 a 6 dias,Extremamente,4 horas,Mais ou menos,Bastante,Sim,Não,Não,Não
+21,Medicina,MASCULINO,Namorando,BRANCA,MENOR QUE 1 SALÁRIO-MÍNIMO,Nada,Muito pouco,Nada,Nada,Nada,1 a 2 dias,Extremamente,1 a 2 horas,Nada,Nada,Não,Não,Não,Não
+22,Medicina,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Nada,Mais ou menos,Muito pouco,3 a 4 dias,Bastante,4 horas,Mais ou menos,Mais ou menos,Sim,Não,Não,Não
+20,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Bastante,Nada,Nada,3 a 4 dias,Bastante,3 horas,Nada,Muito pouco,Não,Não,Não,Sim
+20,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Nada,Muito pouco,Nada,5 a 6 dias,Mais ou menos,3 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+22,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Extremamente,Extremamente,Nada,Nada,Nada,5 a 6 dias,Extremamente,4 horas,Nada,Nada,Não,Não,Não,Não
+19,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Extremamente,Mais ou menos,Nada,Muito pouco,Nada,3 a 4 dias,Bastante,3 horas,Nada,Muito pouco,Sim,Não,Não,Não
+27,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Bastante,Muito pouco,5 a 6 dias,Bastante,6 horas ou mais,Muito pouco,Mais ou menos,Não,Não,Sim,Sim
+22,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Nada,Muito pouco,Nada,3 a 4 dias,Bastante,5 horas,Muito pouco,Bastante,Não,Não,Não,Sim
+19,Medicina,MASCULINO,SOLTEIRO (A),INDÍGENA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Nada,Mais ou menos,5 a 6 dias,Bastante,5 horas,Mais ou menos,Mais ou menos,Não,Não,Não,Não
+35,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Nada,Muito pouco,Muito pouco,3 a 4 dias,Mais ou menos,6 horas ou mais,Nada,Muito pouco,Não,Não,Não,Não
+19,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Bastante,Nada,Nada,3 a 4 dias,Bastante,6 horas ou mais,Nada,Bastante,Não,Não,Não,Não
+18,Medicina,FEMININO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Mais ou menos,Nada,5 a 6 dias,Extremamente,6 horas ou mais,Nada,Mais ou menos,Não,Não,Não,Sim
+41,Medicina,MASCULINO,DIVORCIADO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Muito pouco,Muito pouco,Muito pouco,3 a 4 dias,Bastante,4 horas,Nada,Muito pouco,Sim,Não,Não,Sim
+20,Medicina,MASCULINO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Nada,Mais ou menos,Nada,Muito pouco,Nada,5 a 6 dias,Mais ou menos,3 horas,Nada,Muito pouco,Sim,Não,Não,Não
+41,Medicina,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Muito pouco,Mais ou menos,Nada,Nada,Bastante,5 horas,Nada,Mais ou menos,Não,Não,Não,Não
+20,Medicina,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Extremamente,Muito pouco,3 a 4 dias,Extremamente,3 horas,Bastante,Mais ou menos,Sim,Sim,Sim,Sim
+28,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Bastante,Muito pouco,Extremamente,Nada,Bastante,3 horas,Bastante,Bastante,Não,Não,Sim,Sim
+28,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Muito pouco,Mais ou menos,1 a 2 dias,Bastante,5 horas,Mais ou menos,Bastante,Sim,Sim,Não,Sim
+34,Medicina,FEMININO,DIVORCIADO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Muito pouco,Muito pouco,3 a 4 dias,Bastante,6 horas ou mais,Muito pouco,Bastante,Não,Não,Não,Não
+37,Medicina,FEMININO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Nada,Bastante,Muito pouco,1 a 2 dias,Bastante,4 horas,Muito pouco,Mais ou menos,Não,Não,Não,Não
+24,Farmácia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Nada,Bastante,Nada,5 a 6 dias,Extremamente,4 horas,Nada,Mais ou menos,Sim,Não,Não,Não
+24,Farmácia,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Mais ou menos,Nada,Muito pouco,3 a 4 dias,Extremamente,1 a 2 horas,Nada,Mais ou menos,Sim,Não,Sim,Sim
+19,Direito,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Extremamente,Mais ou menos,Bastante,Bastante,Nada,Mais ou menos,6 horas ou mais,Mais ou menos,Bastante,Sim,Sim,Sim,Não
+19,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Nada,Nada,Nada,Muito pouco,Nada,5 a 6 dias,Mais ou menos,6 horas ou mais,Muito pouco,Mais ou menos,Não,Não,Não,Não
+21,Direito,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Bastante,Mais ou menos,Mais ou menos,Mais ou menos,Nada,5 a 6 dias,Mais ou menos,6 horas ou mais,Nada,Bastante,Não,Não,Sim,Não
+18,Direito,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Bastante,Muito pouco,1 a 2 dias,Bastante,6 horas ou mais,Nada,Extremamente,Sim,Não,Sim,Sim
+23,Farmácia,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Mais ou menos,Muito pouco,Muito pouco,Mais ou menos,3 a 4 dias,Bastante,6 horas ou mais,Extremamente,Bastante,Sim,Não,Sim,Sim
+21,Farmácia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,Nada,5 a 6 dias,Extremamente,6 horas ou mais,Bastante,Bastante,Sim,Não,Não,Sim
+24,Farmácia,FEMININO,SOLTEIRO (A),PRETA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Muito pouco,Bastante,Nada,5 a 6 dias,Extremamente,1 a 2 horas,Bastante,Extremamente,Sim,Não,Não,Sim
+21,Farmácia,FEMININO,SOLTEIRO (A),BRANCA,MENOR QUE 1 SALÁRIO-MÍNIMO,Mais ou menos,Extremamente,Muito pouco,Mais ou menos,Mais ou menos,Nada,Extremamente,5 horas,Bastante,Extremamente,Sim,Não,Sim,Sim
+19,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Nada,Nada,Nada,1 a 2 dias,Bastante,6 horas ou mais,Nada,Muito pouco,Sim,Não,Não,Não
+17,Arquitetura ,FEMININO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Muito pouco,Nada,3 a 4 dias,Bastante,5 horas,Bastante,Mais ou menos,Sim,Não,Não,Não
+21,Farmácia,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,Nada,5 a 6 dias,Extremamente,6 horas ou mais,Bastante,Bastante,Sim,Não,Não,Sim
+29,Medicina,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Muito pouco,Bastante,Muito pouco,1 a 2 dias,Bastante,1 a 2 horas,Muito pouco,Bastante,Sim,Não,Não,Não
+20,Medicina,FEMININO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Mais ou menos,Mais ou menos,Nada,Bastante,3 horas,Mais ou menos,Mais ou menos,Sim,Não,Não,Sim
+25,Administração ,MASCULINO,SOLTEIRO (A),BRANCA,5-10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Nada,Nada,Nada,5 a 6 dias,Bastante,1 a 2 horas,Nada,Mais ou menos,Não,Não,Não,Não
+22,Medicina,FEMININO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Nada,Mais ou menos,Nada,5 a 6 dias,Extremamente,4 horas,Muito pouco,Mais ou menos,Sim,Não,Não,Não
+47,Medicina,MASCULINO,CASADO (A) /UNIÃO ESTÁVEL,PRETA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Extremamente,Muito pouco,Nada,Extremamente,Todos os dias,Bastante,1 a 2 horas,Nada,Nada,Sim,Sim,Sim,Sim
+Ro,Enfermagem ,FEMININO,SOLTEIRO (A),BRANCA,MENOR QUE 1 SALÁRIO-MÍNIMO,Nada,Mais ou menos,Bastante,Nada,Bastante,Nada,Nada,1 a 2 horas,Muito pouco,Muito pouco,Não,Não,Não,Não
+30,Odontologia ,FEMININO,SOLTEIRO (A),BRANCA,MENOR QUE 1 SALÁRIO-MÍNIMO,Muito pouco,Muito pouco,Nada,Muito pouco,Muito pouco,Nada,Nada,4 horas,Extremamente,Extremamente,Não,Não,Não,Não
+24,Ciências econômicas ,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Bastante,Nada,Muito pouco,Nada,3 a 4 dias,Extremamente,6 horas ou mais,Mais ou menos,Mais ou menos,Não,Não,Não,Sim
+23,Direito,MASCULINO,SOLTEIRO (A),PARDA,1-5 SALÁRIOS-MÍNIMOS,Muito pouco,Muito pouco,Nada,Nada,Nada,1 a 2 dias,Extremamente,1 a 2 horas,Nada,Mais ou menos,Sim,Não,Não,Não
+22,Medicina,MASCULINO,SOLTEIRO (A),PARDA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Muito pouco,Mais ou menos,Muito pouco,3 a 4 dias,Bastante,4 horas,Muito pouco,Mais ou menos,Sim,Sim,Sim,Não
+20,Medicina,FEMININO,SOLTEIRO (A),BRANCA,1-5 SALÁRIOS-MÍNIMOS,Mais ou menos,Mais ou menos,Mais ou menos,Muito pouco,Muito pouco,Nada,Bastante,3 horas,Muito pouco,Bastante,Sim,Não,Não,Sim
+22,Medicina,FEMININO,SOLTEIRO (A),PARDA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Bastante,Mais ou menos,Muito pouco,5 a 6 dias,Extremamente,4 horas,Bastante,Bastante,Sim,Não,Não,Sim
+50,Enfermagem ,FEMININO,CASADO (A) /UNIÃO ESTÁVEL,PARDA,5-10 SALÁRIOS-MÍNIMOS,Mais ou menos,Bastante,Mais ou menos,Mais ou menos,Mais ou menos,3 a 4 dias,Bastante,5 horas,Mais ou menos,Bastante,Sim,Sim,Sim,Sim
+20,Medicina,MASCULINO,SOLTEIRO (A),BRANCA,MAIOR QUE 10 SALÁRIOS-MÍNIMOS,Bastante,Bastante,Mais ou menos,Mais ou menos,Mais ou menos,3 a 4 dias,Bastante,5 horas,Mais ou menos,Mais ou menos,Sim,Não,Não,Sim
