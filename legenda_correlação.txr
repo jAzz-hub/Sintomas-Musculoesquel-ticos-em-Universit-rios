@@ -1,0 +1,34 @@
+Relacionando ao Coeficiente (Spearman’s ρ):
+    |ρ| = 1: Correlação perfeita.
+
+    |ρ| ≥ 0.7: Forte.
+
+    0.4 ≤ |ρ| < 0.7: Moderada.
+
+    |ρ| < 0.4: Fraca.
+
+
+Heatmap com Kendall’s Tau (Ordinais):
+    Exemplo: Relação entre "Dificuldade para Dormir" (1-5) e "Grau de Incapacidade" (1-5).
+    Heatmap Ordinal
+
+    Interpretação:
+    Células Quentes na Diagonal: Concordância (ex: dificuldade 4 → incapacidade 4).
+
+    Células Frias Fora da Diagonal: Discordância (ex: dificuldade 1 → incapacidade 5).
+
+    Relacionando ao τ de Kendall:
+    τ = 1: Concordância perfeita.
+
+    τ = -1: Discordância perfeita.
+
+    τ > 0.3: Associação positiva relevante.
+
+
+Tabela-Resumo para Interpretação Rápida
+    Métrica	Valor	Interpretação
+    p-value	< 0.05	Resultado estatisticamente significativo
+    Rank-biserial (r)	0.3 ≤	r	< 0.5	Efeito moderado
+    Cramér's V	0.3 ≤ V < 0.5	Associação moderada entre categorias
+    Spearman’s ρ	0.6	Correlação forte
+    Kendall’s τ	0.4	Tendência positiva moderada
