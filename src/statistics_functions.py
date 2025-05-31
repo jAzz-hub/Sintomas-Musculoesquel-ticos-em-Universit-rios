@@ -4,7 +4,9 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy.stats import kendalltau, spearmanr, mannwhitneyu, chi2_contingency
-from constants import ordinal_inverse_mappings
+from constants import ordinal_inverse_mappings, ordinal_mappings
+from matplotlib.colors import LinearSegmentedColormap
+
 
 # Casos de variável categórica nominal x variável númerica
 def Boxplot(df, x_axis, y_numerical_axis):
@@ -23,54 +25,88 @@ def is_binary(series):
     return series.nunique() == 2
 
 
-    
-
 def analyze_ordinal_pair(df, col1, col2):
-    """
-    Analisa a relação entre duas colunas ordinais ou entre uma ordinal e uma numérica.
+    # Verificação inicial
+    if col1 not in ordinal_inverse_mappings or col2 not in ordinal_inverse_mappings:
+        raise ValueError("Verifique os nomes das colunas nos mapeamentos!")
     
-    Parâmetros:
-        df: DataFrame pandas
-        col1, col2: Nomes das colunas (strings) ou Series
-    """
-
-    # Garante que usamos nomes de colunas
-    if isinstance(col1, pd.Series):
-        col1 = col1.name
-    if isinstance(col2, pd.Series):
-        col2 = col2.name
-
-
-    col1_ordinal = is_ordinal(df[col1])
-    col2_ordinal = is_ordinal(df[col2])
+    # Pré-processamento
+    df_clean = df[[col1, col2]].dropna().copy()
     
-    # Visualização
-    plt.figure(figsize=(10, 5))
-    
-    try:
-        if col1_ordinal and col2_ordinal:
-            # Duas ordinais: Heatmap + Kendall's Tau
-            contingency = pd.crosstab(df[col1], df[col2])
-            sns.heatmap(contingency, annot=True, fmt='d', cmap='Blues')
-            tau, p = kendalltau(df[col1], df[col2])
-            plt.title(f"Relação Ordinal (Kendall's Tau)\nτ = {tau:.2f}, p = {p:.4f}")
-        
-        elif col1_ordinal or col2_ordinal:
-            # Uma ordinal, uma numérica: Boxplot + Spearman
-            ordinal_col = col1 if col1_ordinal else col2
-            numeric_col = col2 if col1_ordinal else col1
-            
-            sns.boxplot(x=ordinal_col, y=numeric_col, data=df)
-            rho, p = spearmanr(df[ordinal_col], df[numeric_col])
-            plt.title(f"Correlação Ordinal-Numérica (Spearman)\nρ = {rho:.2f}, p = {p:.4f}")
-        
-        plt.tight_layout()
-        plt.show()
-        
-    except Exception as e:
-        print(f"Erro durante a plotagem: {str(e)}")
-        plt.close()
+    # Mapeia valores para texto
+    df_clean[f'{col1}_label'] = df_clean[col1].map(ordinal_inverse_mappings[col1])
+    df_clean[f'{col2}_label'] = df_clean[col2].map(ordinal_inverse_mappings[col2])
 
-# Exemplo de uso:
-# analyze_pair(df, 'Teve dor?', 'Nível de estresse')
-# analyze_pair(df, 'Consultou médico?', 'Grau de incapacidade')
+    # Ordem categórica explícita
+    ordem_col1 = [ordinal_inverse_mappings[col1][i] for i in sorted(ordinal_inverse_mappings[col1].keys())]
+    ordem_col2 = [ordinal_inverse_mappings[col2][i] for i in sorted(ordinal_inverse_mappings[col2].keys())]
+    
+    # Cria categorias ordenadas
+    df_clean[f'{col1}_label'] = pd.Categorical(
+        df_clean[f'{col1}_label'], 
+        categories=ordem_col1, 
+        ordered=True
+    )
+    df_clean[f'{col2}_label'] = pd.Categorical(
+        df_clean[f'{col2}_label'], 
+        categories=ordem_col2, 
+        ordered=True
+    )
+    
+    # Tabela de contingência
+    contingency = pd.crosstab(
+        df_clean[f'{col1}_label'], 
+        df_clean[f'{col2}_label']
+    )
+    
+    
+        # Configuração do Seaborn
+    sns.set_theme(font_scale=2.2)  # Aumenta a escala geral das fontes
+
+#     custom_cmap = LinearSegmentedColormap.from_list(
+#     "custom_fade", ["#D4145A", "#6A1B9A", "#0D47A1"]
+#   )
+
+    #  custom_cmap = LinearSegmentedColormap.from_list(
+    #     "custom_fade", ["#0D47A1", "#6A1B9A","#D4145A"]
+    # )
+    # custom_cmap = LinearSegmentedColormap.from_list(
+    # "custom_fade_exact", ['#622460', '#4d2a68', '#393174', '#263a83', '#154394']
+    # )
+
+    # custom_cmap = LinearSegmentedColormap.from_list(
+    #     "custom_fade_exact", ['#6f215e', '#3c2f71', '#263982', '#552765', '#871f5c']
+
+    # )
+
+    custom_cmap = LinearSegmentedColormap.from_list(
+        "custom_fade_reversed", ['#263982', '#3c2f71', '#552765', '#6f215e', '#871f5c']
+    )
+    # Plotagem
+    plt.figure(figsize=(20, 20))
+    ax = sns.heatmap(
+        contingency, 
+        annot=True, 
+        fmt='d', 
+        cmap=custom_cmap,#'YlOrBr', 
+        cbar_kws={'label': 'Contagem'}
+    )
+    
+    # Configurações do gráfico
+    plt.title(f"Relação entre '{col1}' e '{col2}'", pad=15)
+    plt.xlabel(col2, fontsize = 22)
+    plt.ylabel(col1, fontsize = 22)
+    plt.xticks(rotation=45, ha='right')
+    plt.yticks(rotation=0)
+    
+    # Adiciona estatísticas
+    tau, p = kendalltau(df_clean[col1], df_clean[col2])
+    plt.figtext(
+        0.5, -0.2, 
+        f"Kendall's Tau = {tau:.2f} (p = {p:.4f})\n",
+        ha='center', 
+        fontsize=23
+    )
+    
+    plt.tight_layout()
+    plt.show()
